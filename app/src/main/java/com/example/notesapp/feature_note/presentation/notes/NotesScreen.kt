@@ -1,6 +1,5 @@
 package com.example.notesapp.feature_note.presentation.notes
 
-import android.R.attr.padding
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
